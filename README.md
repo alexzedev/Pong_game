@@ -18,6 +18,7 @@ How to play:
 4.Keep track of your score and try to beat your high score
 5.Have fun and challenge yourself to beat the computer!
 
+![alt text](https://github.com/alexzedev/Pong_game/blob/main/pong_game_gif.gif?raw=true)
 
 Contributing:
 
