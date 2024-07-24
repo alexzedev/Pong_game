@@ -13,7 +13,7 @@ Gameplay:
 How to play:
 
 1. Run the game by executing the pong_game.py file
-2.Use the arrow keys or WASD keys to control your paddle
+2.Use the up and down arrow keys to control your paddle
 3.Try to hit the ball in such a way that the computer is unable to return it
 4.Keep track of your score and try to beat your high score
 5.Have fun and challenge yourself to beat the computer!
