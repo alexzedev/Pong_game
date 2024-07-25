@@ -21,6 +21,12 @@ How to play:
 
 ![alt text](https://github.com/alexzedev/Pong_game/blob/main/pong_game_gif.gif?raw=true)
 
+Technical details:
+
+Built using Python 3.11
+Uses the Pygame library for the graphical interface
+Designed for Windows, macOS, and Linux platforms
+
 Contributing:
 
 If you'd like to contribute to the game, please fork the repository and submit a pull request with your changes. We welcome bug fixes, feature requests, and improvements to the game!
